@@ -1,5 +1,11 @@
 # ODEV
 
+> [!WARNING]
+>
+> This repository is outdated and archived!
+> 
+> Go check the updated and publicly released version of this tool at [odoo-odev/odev](https://githu?com/odoo-odev/odev).
+
 Automate common tasks relative to working with Odoo development databases.
 
 <!-- TOC depthFrom:2 -->
